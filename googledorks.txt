@@ -1,3 +1,5 @@
+viagra
+log in
 intitle:"index of" drupal intitle:"index of" 
 admin inurl:login.cgi  
 inurl:/login/index.jsp -site:hertz.*
@@ -10,7 +12,7 @@ s3 site:amazonaws.com filetype:log
 inurl:cgi/login.pl
 inurl:zoom.us/j and intext:scheduled for
 site:*/auth intitle:login
-nurl: admin/login.aspx    Pages Containing Login Portals
+nurl: admin/login.aspx    
 "Index of" inurl:webalizer
 "Index of" inurl:phpmyadmin
 "Index of" inurl:htdocs inurl:xampp
@@ -93,7 +95,7 @@ _news/news.php?id=
 "HostingAccelerator" intitle:"login" +"Username" -"news" -demo
 "html allowed" guestbook
 "HTTP_FROM=googlebot" googlebot.com "Server_Software="
-"http://*:*@www" domainname
+"http://*:*@www" 
 "iCONECT 4.1 :: Login"
 "IMail Server Web Messaging" intitle:login
 "Incorrect syntax near"
