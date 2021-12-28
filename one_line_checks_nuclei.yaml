@@ -9,6 +9,7 @@ info:
     - https://github.com/brinhosa/payloads
   tags: xss,sqli,xxe,ssti,csti,ssrf,openredirect   
 
+skip-variables-check: true
 requests:
   
   - method: GET
