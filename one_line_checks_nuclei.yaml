@@ -41,8 +41,13 @@ requests:
       - type: word
         part: body
         words:
-          - "49"          
-          
+          - "49"   
+
+      - type: word
+        part: body
+        words:
+          - "mysql"   
+                  
       - type: word
         part: interactsh_protocol  # Confirms the DNS Interaction
         words:
