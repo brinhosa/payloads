@@ -22,44 +22,27 @@ requests:
         part: body
         words:
           - "<svg/onload=prompt(5);>"
-          
-      - type: word
-        part: body
-        words:
           - "www-data:"
-          
-      - type: word
-        part: body
-        words:
           - "daemon:"
-
-      - type: word
-        part: body
-        words:
           - "user:x"
-          
-      - type: word
-        part: body
-        words:
           - "49"   
-
-      - type: word
-        part: body
-        words:
           - "mysql"   
+        condition: or
                   
       - type: word
-        part: interactsh_protocol  # Confirms the DNS Interaction
+        part: interactsh_protocol
         words:
           - "dns"
-          
+        condition: or
+        
       - type: word
         part: interactsh_protocol
         words:
           - "http"
-
+        condition: or
+        
       - type: word
         part: header
         words:
           - "interact.sh"  
-          
+        condition: or          
