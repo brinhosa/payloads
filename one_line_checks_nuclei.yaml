@@ -7,7 +7,7 @@ info:
   description: Check for multiple vulnerabilities in one payload.
   reference:
     - https://github.com/brinhosa/payloads
-  tags: xss,sqli,xxe,ssti,csti,ssrf,openredirect      
+  tags: xss,sqli,xxe,ssti,csti,ssrf,openredirect       
 
 
 requests:
