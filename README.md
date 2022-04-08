@@ -1,3 +1,3 @@
 # payloads
-My best payloads for different purposes.
+Some of my customized payloads for different purposes.
 
