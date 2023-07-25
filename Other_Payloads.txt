@@ -1,0 +1,2 @@
+=cmd|’ /C wt’!ZZ01
+=cmd|’ /C powershell’!ZZ01
