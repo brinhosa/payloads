@@ -1,8 +1,8 @@
 {
-    "url": "https://jumpy-floor.surge.sh/test.yaml",
+    "url": "https://raw.githubusercontent.com/brinhosa/payloads/master/testswagger.yaml",
     "urls": [
         {
-            "url": "https://jumpy-floor.surge.sh/test.yaml",
+            "url": "https://raw.githubusercontent.com/brinhosa/payloads/master/testswagger.yaml",
             "name": "Foo"
         }
     ]
