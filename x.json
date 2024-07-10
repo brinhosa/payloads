@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/brinhosa/payloads/master/g.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/brinhosa/payloads/master/g.yaml",
+            "name": "Foo"
+        }
+    ]
+}
