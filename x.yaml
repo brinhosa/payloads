@@ -3,6 +3,7 @@ info:
   title: Classic API Resource Documentation
   description: |
     <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('XSS') src=1>"></form>
+
   version: production
 basePath: /JSSResource/
 produces:
