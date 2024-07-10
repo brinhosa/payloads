@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/brinhosa/payloads/master/g.yaml",
+    "url": "https://raw.githubusercontent.com/brinhosa/payloads/master/x.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/brinhosa/payloads/master/g.yaml",
+            "url": "https://raw.githubusercontent.com/brinhosa/payloads/master/x.yaml",
             "name": "Foo"
         }
     ]
